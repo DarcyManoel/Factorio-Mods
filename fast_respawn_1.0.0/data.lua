@@ -1,0 +1,1 @@
+data.raw["character"]["character"].respawn_time=1
