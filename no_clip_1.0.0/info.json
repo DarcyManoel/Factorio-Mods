@@ -1,0 +1,10 @@
+{
+	"title":"No Clip",
+	"name":"no_clip",
+	"description":"Removes the players collision hitbox so that you can walk through anything, even over water.",
+	"author":"Darcy Manoel",
+	"contact":"darcman00@gmail.com",
+	"homepage":"",
+	"version":"1.0.0",
+	"factorio_version":"1.1"
+}
