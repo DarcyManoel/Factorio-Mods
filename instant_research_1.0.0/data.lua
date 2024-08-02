@@ -1,2 +1,2 @@
-require("prototypes.labEnergy")
-require("prototypes.researchTime")
+require('prototypes.lab_energy')
+require('prototypes.research_time')
