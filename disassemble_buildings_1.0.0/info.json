@@ -4,7 +4,7 @@
 	"description":"Mining buildings will return the items required to craft it instead of the actual entity being mined.",
 	"author":"Darcy Manoel",
 	"contact":"darcman00@gmail.com",
-	"homepage":"https://github.com/DarcyManoel/Factorio-Mods",
+	"homepage":"",
 	"version":"1.0.0",
 	"factorio_version":"1.1"
 }
