@@ -1,0 +1,10 @@
+{
+    "title":"Enhanced Deconstruction",
+    "name":"enhanced_deconstruction",
+    "description":"Entities marked for deconstruction can be picked up when nearby like dropped items.",
+    "author":"Darcy Manoel",
+    "contact":"darcman00@gmail.com",
+    "homepage":"",
+    "version":"1.0.0",
+    "factorio_version":"1.1"
+}
