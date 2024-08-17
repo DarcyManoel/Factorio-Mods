@@ -1,10 +1,10 @@
 {
 	"title":"Natural Repair",
 	"name":"simple_repair",
-	"description":"Entities will be returned to full health after 5 seconds since last damaged, disables repair pack.",
+	"description":"Entities will be returned to full health after 60 seconds since last damaged, removes the repair pack recipe.",
 	"author":"Darcy Manoel",
 	"contact":"darcman00@gmail.com",
 	"homepage":"",
-	"version":"2.0.1",
+	"version":"2.0.2",
 	"factorio_version":"1.1"
 }
