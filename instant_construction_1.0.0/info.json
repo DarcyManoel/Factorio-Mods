@@ -1,0 +1,10 @@
+{
+    "title":"Instant Construction",
+    "name":"instant_construction",
+    "description":"Entity ghosts are built immediately by the player if there are sufficient resources in the players inventory.",
+    "author":"Darcy Manoel",
+    "contact":"darcman00@gmail.com",
+    "homepage":"",
+    "version":"1.0.0",
+    "factorio_version":"1.1"
+}
