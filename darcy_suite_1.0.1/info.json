@@ -1,0 +1,24 @@
+{
+	"title":"Darcy Suite",
+	"name":"darcy_suite",
+	"description":"Does nothing by itself.\nTriggers the install of all my mods, helpful for getting the complete experience intended by me.",
+	"author":"Darcy Manoel",
+	"contact":"darcman00@gmail.com",
+	"homepage":"",
+	"version":"1.0.1",
+	"factorio_version":"1.1",
+	"dependencies":[
+		"always_day",
+		"disassemble_buildings",
+		"far_reach",
+		"fast_respawn",
+		"instant_construction",
+		"instant_craft",
+		"instant_deconstruction",
+		"instant_research",
+		"no_clip",
+		"pump_anywhere",
+		"simple_repair",
+		"tinted_ghosts"
+	]
+}
