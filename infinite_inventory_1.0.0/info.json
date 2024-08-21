@@ -1,0 +1,10 @@
+{
+    "title":"Infinite Inventory",
+    "name":"infinite_inventory",
+    "description":"The players inventory will automatically adjust to always have a full inventory of slots remaining..",
+    "author":"Darcy Manoel",
+    "contact":"darcman00@gmail.com",
+    "homepage":"",
+    "version":"1.0.0",
+    "factorio_version":"1.1"
+}
