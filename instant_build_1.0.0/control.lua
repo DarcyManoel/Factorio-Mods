@@ -11,4 +11,14 @@ end)
 script.on_event(defines.events.on_built_entity,function(event)
 	local player=game.players[event.player_index]
 	do_deconstruction(player)
+	local ghost=event.created_entity
+	if ghost.valid and ghost.name=='entity-ghost'then
+		local item_name=ghost.ghost_name
+		if player.get_item_count(item_name)>0 then
+			player.remove_item{name=item_name,count=1}
+			ghost.revive()
+		else
+			player.print("You don't have the item to place a ghost.")
+		end
+	end
 end)
