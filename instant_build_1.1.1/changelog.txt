@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2024-08-24
+  Performance:
+    - Filtered the `on_built_entity` event to eliminate lag on placing many buildings in succession.

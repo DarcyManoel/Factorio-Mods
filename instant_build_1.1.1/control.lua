@@ -58,7 +58,7 @@ end)
 script.on_event(defines.events.on_built_entity,function(event)
 	local player=game.players[event.player_index]
 	prepare_build(player)
-end)
+end,{{filter='type',type='entity-ghost'}})
 script.on_event(defines.events.on_player_main_inventory_changed,function(event)
 	local player=game.players[event.player_index]
 	prepare_build(player)
